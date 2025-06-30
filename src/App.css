@@ -1,4 +1,4 @@
-/* .App {
+.App {
   text-align: center;
   padding: 2rem;
   background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
@@ -68,7 +68,7 @@ li button {
 
 li button:hover {
   background-color: #c62828;
-} */
+}
 
 
 
@@ -76,7 +76,7 @@ li button:hover {
 
 /* App.css */
 
-.container {
+/* .container {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   max-width: 1000px;
   margin: 30px auto;
@@ -193,4 +193,4 @@ footer {
   color: #ad1457;
   font-weight: 600;
   background: transparent;
-}
+} */
